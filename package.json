@@ -8,7 +8,7 @@
     "migrate": "truffle migrate",
     "migrate:dashboard": "truffle migrate --network dashboard",
     "truffle:dashboard": "truffle dashboard",
-    "truffle:verify": "truffle run verify MarkToken --network arbitrum --verifiers=arbiscan"
+    "truffle:verify": "truffle run verify MarkToken --network arbitrum --verifiers=etherscan"
   },
   "repository": {
     "type": "git",

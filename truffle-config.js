@@ -10,6 +10,9 @@ module.exports = {
       port: 7545,
       network_id: '*',
     },
+    arbitrum: {
+      network_id: 42161,
+    },
     dashboard: {
       networkCheckTimeout: 120000,
       network_id: '*',
